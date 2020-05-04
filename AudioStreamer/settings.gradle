@@ -1,0 +1,2 @@
+rootProject.name='Audio Streamer'
+include ':app'
