@@ -1,7 +1,6 @@
-package com.awesome.audio_streamer;
+package com.awesome.audiostream;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {

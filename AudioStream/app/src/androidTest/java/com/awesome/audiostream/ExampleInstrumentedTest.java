@@ -1,4 +1,4 @@
-package com.awesome.audio_streamer;
+package com.awesome.audiostream;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.awesome.audio_streamer", appContext.getPackageName());
+        assertEquals("com.awesome.audiostream", appContext.getPackageName());
     }
 }

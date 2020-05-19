@@ -1,4 +1,4 @@
-package com.awesome.audio_streamer;
+package com.awesome.audiostream;
 
 import org.junit.Test;
 
